@@ -1,7 +1,7 @@
 
 #* @get /version
 normalMean <- function(samples=10){
-  "Version: 1.0"
+  "Version: 1.1"
 }
 
 #* @get /heartbeat
