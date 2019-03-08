@@ -1,11 +1,11 @@
 
 #* @get /version
-normalMean <- function(samples=10){
+version <- function(){
   "Version: 1.1"
 }
 
 #* @get /heartbeat
-heartbeat <- function(samples=10){
+heartbeat <- function(){
   "API is up and running"
 }
 
